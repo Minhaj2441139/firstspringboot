@@ -7,7 +7,7 @@ public class Laptop {
 
 	public void compile() {
 		// TODO Auto-generated method stub
-		System.out.println("Compilingggggggg");
+		System.out.println("Compilinggggggggsss");
 		
 	}
 
